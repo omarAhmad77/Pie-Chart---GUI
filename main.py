@@ -2,7 +2,6 @@
 #Assignment Title: Program 26
 #Assignment Description: GUI - Pie Chart
 #Date Created: 11/15/2023
-#Due Date: 11/17/2023
 
 import tkinter as tk
 from tkinter import filedialog
